@@ -1,0 +1,4 @@
+/*
+    ===== Código de TypeScript =====
+*/
+// *-*-*- Genéricos *-*-*-
