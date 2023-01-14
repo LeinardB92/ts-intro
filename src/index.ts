@@ -2,7 +2,4 @@
     ===== Código de TypeScript =====
 */
 
-// *-*-*- Decoradores *-*-*-
-
-
 
