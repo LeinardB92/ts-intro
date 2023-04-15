@@ -2,6 +2,7 @@
     ===== Código de TypeScript =====
 */
 // *-*-*- Decoradores *-*-*-
+/*
 function classDecorator<T extends {new (...args: any[]) }> (constructor: T) {
     return class extends constructor{
         newProperty = "new property";
@@ -18,6 +19,8 @@ class MiSuperClase {
     }
 }
 
+
 const miClase = new MiSuperClase;
 console.log(miClase.imprimir());
 //console.log(miClase.newProperty);
+*/
